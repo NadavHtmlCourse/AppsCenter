@@ -1,0 +1,10 @@
+node_modules\
+
+logs\
+
+libraries\
+libraries\bootstrap\bootstrap-5.2.0-dist\
+libraries\fontAwesome\fontawesome-free-6.1.2-web\
+
+server\mongoDB\
+server\sqlServer\
